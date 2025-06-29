@@ -30,4 +30,4 @@ python app.py
 ## Deploy to Railway
 1. Connect this folder to Railway
 2. Railway will automatically use the Dockerfile
-3. Update the Chrome extension's serverUrl to the Railway app URL 
+3. Update the Chrome extension's serverUrl to the Railway app URL # Railway deployment trigger
